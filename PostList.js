@@ -20,7 +20,7 @@ export default class PostList extends Component {
   componentDidMount() {
     let { pageNumber } = this.state;
     this.callThePostApi();
-    setInterval(() => this.callThePostApi(), 3000);
+    setInterval(() => this.callThePostApi(), 10000);
   }
 
   callThePostApi = () => {
