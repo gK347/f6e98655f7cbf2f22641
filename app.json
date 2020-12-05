@@ -1,0 +1,12 @@
+{
+  "name": "engineeringiodemo",
+  "displayName": "engineeringiodemo",
+  "expo": {
+    "name": "engineeringiodemo",
+    "slug": "engineeringiodemo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
