@@ -1,5 +1,6 @@
 import Moment from "moment";
 import React, { useEffect, useState } from "react";
+import { Component } from "react";
 import {
   SafeAreaView,
   StyleSheet,
@@ -9,33 +10,41 @@ import {
   TouchableHighlight,
 } from "react-native";
 
-export default function PostList({ navigation }) {
-  const [postData, setPostData] = useState([]);
-  const [pageNumber, setPageNumber] = useState(0);
-  let isAPICall = false;
+export default class PostList extends Component {
+  state = {
+    pageNumber: 0,
+    postData: [],
+    isAPICall: false,
+  };
 
-  useEffect(() => {
-    callThePostApi(0);
-    // let interval = setInterval(() => callThePostApi(pageNumber), 3000);
-    // return () => {
-    //   clearInterval(interval);
-    // };
-  }, []);
+  componentDidMount() {
+    let { pageNumber } = this.state;
+    this.callThePostApi();
+    setInterval(() => this.callThePostApi(), 3000);
+  }
 
-  const callThePostApi = (pageNum) => {
+  callThePostApi = () => {
+    let { pageNumber, postData, isAPICall } = this.state;
     if (!isAPICall) {
-      isAPICall = true;
+      this.setState({
+        isAPICall: true,
+      });
       const url = `https://hn.algolia.com/api/v1/search_by_date?tags=story&page=${pageNumber}`;
       fetch(url)
         .then((response) => response.json())
         .then((res) => {
-          isAPICall = false;
+          // isAPICall = false;
           if (res?.hits?.length > 0) {
             let updatedPageNumber = pageNumber + 1;
-            setPageNumber(updatedPageNumber);
+            // setPageNumber(updatedPageNumber);
 
             let updatedPost = [...postData, ...res.hits];
-            setPostData(updatedPost);
+            // setPostData(updatedPost);
+            this.setState({
+              isAPICall: false,
+              pageNumber: updatedPageNumber,
+              postData: updatedPost,
+            });
           }
         })
         .catch((error) => {
@@ -45,10 +54,12 @@ export default function PostList({ navigation }) {
     }
   };
 
-  const renderPost = ({ item, index }) => {
+  renderPost = ({ item, index }) => {
     return (
       <TouchableHighlight
-        onPress={() => navigation.navigate("PostDetail", { postData: item })}
+        onPress={() =>
+          this.props.navigation.navigate("PostDetail", { postData: item })
+        }
         underlayColor={"transparent"}
       >
         <View style={styles.storyCardContainer}>
@@ -67,20 +78,23 @@ export default function PostList({ navigation }) {
     );
   };
 
-  return (
-    <SafeAreaView style={styles.container}>
-      <View style={styles.container}>
-        <FlatList
-          data={postData}
-          renderItem={renderPost}
-          extraData={postData}
-          onEndReached={() => callThePostApi(pageNumber)}
-          onEndReachedThreshold={0.1}
-          keyExtractor={(item, index) => item.created_at_i + " " + index}
-        />
-      </View>
-    </SafeAreaView>
-  );
+  render() {
+    let { postData, pageNumber } = this.state;
+    return (
+      <SafeAreaView style={styles.container}>
+        <View style={styles.container}>
+          <FlatList
+            data={postData}
+            renderItem={this.renderPost}
+            extraData={postData}
+            onEndReached={() => this.callThePostApi()}
+            onEndReachedThreshold={0.1}
+            keyExtractor={(item, index) => item.created_at_i + " " + index}
+          />
+        </View>
+      </SafeAreaView>
+    );
+  }
 }
 
 const styles = StyleSheet.create({
