@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>engineeringiodemo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970</string>
+				<key>dateExpires</key>
+				<string>05/12/21</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>YR4YU5F8NT.org.name.engineeringiodemo</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>YR4YU5F8NT</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>YR4YU5F8NT.org.name.engineeringiodemo</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>engineeringiodemo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>528e781f-9112-4e40-a746-05934970d77e</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>YR4YU5F8NT</string>
+				<key>name</key>
+				<string>Pratik Khunt</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

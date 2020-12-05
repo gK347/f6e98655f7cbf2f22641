@@ -1,0 +1,612 @@
+2020-12-05 12:59:25 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fd9bec6e280; archive(resolved)='<IDEArchive: 0x7fd9bd651cd0>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodDevelopmentSigned: 0x7fd9cd8d48c0>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd9a96b3c20; teamID='YR4YU5F8NT', teamName='Pratik Khunt', teamType='Individual', username='khunt.p.m@gmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (14, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fd9bec6e280; archive = '<IDEArchive: 0x7fd9bd651cd0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd9cd8d48c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd9a96b3c20; teamID='YR4YU5F8NT', teamName='Pratik Khunt', teamType='Individual', username='khunt.p.m@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fd9bec30130; archive = '<IDEArchive: 0x7fd9bd651cd0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd9cd8d48c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd9a96b3c20; teamID='YR4YU5F8NT', teamName='Pratik Khunt', teamType='Individual', username='khunt.p.m@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd9bec16530; archive = '<IDEArchive: 0x7fd9bd651cd0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd9cd8d48c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd9a96b3c20; teamID='YR4YU5F8NT', teamName='Pratik Khunt', teamType='Individual', username='khunt.p.m@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd9be0c7c60; archive = '<IDEArchive: 0x7fd9bd651cd0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd9cd8d48c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd9a96b3c20; teamID='YR4YU5F8NT', teamName='Pratik Khunt', teamType='Individual', username='khunt.p.m@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd9bd779f50; archive = '<IDEArchive: 0x7fd9bd651cd0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd9cd8d48c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd9a96b3c20; teamID='YR4YU5F8NT', teamName='Pratik Khunt', teamType='Individual', username='khunt.p.m@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd9bdcca070; archive = '<IDEArchive: 0x7fd9bd651cd0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd9cd8d48c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd9a96b3c20; teamID='YR4YU5F8NT', teamName='Pratik Khunt', teamType='Individual', username='khunt.p.m@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd9be0a26e0; archive = '<IDEArchive: 0x7fd9bd651cd0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd9cd8d48c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd9a96b3c20; teamID='YR4YU5F8NT', teamName='Pratik Khunt', teamType='Individual', username='khunt.p.m@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd9bd7bd900; archive = '<IDEArchive: 0x7fd9bd651cd0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd9cd8d48c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd9a96b3c20; teamID='YR4YU5F8NT', teamName='Pratik Khunt', teamType='Individual', username='khunt.p.m@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd9bd7aa2d0; archive = '<IDEArchive: 0x7fd9bd651cd0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd9cd8d48c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd9a96b3c20; teamID='YR4YU5F8NT', teamName='Pratik Khunt', teamType='Individual', username='khunt.p.m@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd9bd780800; archive = '<IDEArchive: 0x7fd9bd651cd0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd9cd8d48c0>', team='(null)'>
+	<IDEDistributionContext: 0x7fd9bdc554c0; archive = '<IDEArchive: 0x7fd9bd651cd0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd9cd8d48c0>', team='(null)'>
+	<IDEDistributionContext: 0x7fd9bdc54cf0; archive = '<IDEArchive: 0x7fd9bd651cd0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd9cd8d48c0>', team='(null)'>
+	<IDEDistributionContext: 0x7fd9bd774070; archive = '<IDEArchive: 0x7fd9bd651cd0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd9cd8d48c0>', team='(null)'>
+	<IDEDistributionContext: 0x7fd9d006a640; archive = '<IDEArchive: 0x7fd9bd651cd0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fd9bec6e280>
+2020-12-05 12:59:25 +0000  Processing step: IDEDistributionCreateDestRootStep
+2020-12-05 12:59:25 +0000  Processing step: IDEDistributionCopyItemStep
+2020-12-05 12:59:25 +0000  Running /usr/bin/ditto '-V' '/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app'
+2020-12-05 12:59:25 +0000  >>> Copying /Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app 
+2020-12-05 12:59:25 +0000  copying file ./_CodeSignature/CodeResources ... 
+2020-12-05 12:59:25 +0000  11072 bytes for ./_CodeSignature/CodeResources
+2020-12-05 12:59:25 +0000  copying file ./SplashScreen.storyboardc/EXPO-VIEWCONTROLLER-1-view-EXPO-ContainerView.nib ... 
+2020-12-05 12:59:25 +0000  2810 bytes for ./SplashScreen.storyboardc/EXPO-VIEWCONTROLLER-1-view-EXPO-ContainerView.nib
+copying file ./SplashScreen.storyboardc/SplashScreenViewController.nib ... 
+2020-12-05 12:59:25 +0000  976 bytes for ./SplashScreen.storyboardc/SplashScreenViewController.nib
+2020-12-05 12:59:25 +0000  copying file ./SplashScreen.storyboardc/Info.plist ... 
+2020-12-05 12:59:25 +0000  225 bytes for ./SplashScreen.storyboardc/Info.plist
+2020-12-05 12:59:25 +0000  copying file ./engineeringiodemo ... 
+2020-12-05 12:59:26 +0000  50508512 bytes for ./engineeringiodemo
+2020-12-05 12:59:26 +0000  copying file ./AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2020-12-05 12:59:26 +0000  530 bytes for ./AccessibilityResources.bundle/en.lproj/Localizable.strings
+2020-12-05 12:59:26 +0000  copying file ./AccessibilityResources.bundle/Info.plist ... 
+2020-12-05 12:59:26 +0000  743 bytes for ./AccessibilityResources.bundle/Info.plist
+2020-12-05 12:59:26 +0000  copying file ./Base.lproj/LaunchScreen.nib ... 
+2020-12-05 12:59:26 +0000  3188 bytes for ./Base.lproj/LaunchScreen.nib
+2020-12-05 12:59:26 +0000  copying file ./Assets.car ... 
+2020-12-05 12:59:26 +0000  68895 bytes for ./Assets.car
+2020-12-05 12:59:26 +0000  copying file ./main.jsbundle ... 
+2020-12-05 12:59:26 +0000  1218526 bytes for ./main.jsbundle
+2020-12-05 12:59:26 +0000  copying file ./app.manifest ... 
+2020-12-05 12:59:26 +0000  1223 bytes for ./app.manifest
+2020-12-05 12:59:26 +0000  copying file ./Frameworks/libswiftCoreImage.dylib ... 
+2020-12-05 12:59:26 +0000  466560 bytes for ./Frameworks/libswiftCoreImage.dylib
+2020-12-05 12:59:26 +0000  copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+2020-12-05 12:59:26 +0000  679680 bytes for ./Frameworks/libswiftObjectiveC.dylib
+2020-12-05 12:59:26 +0000  copying file ./Frameworks/libswiftCore.dylib ... 
+2020-12-05 12:59:26 +0000  95497584 bytes for ./Frameworks/libswiftCore.dylib
+2020-12-05 12:59:26 +0000  copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+2020-12-05 12:59:26 +0000  2041040 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+2020-12-05 12:59:26 +0000  copying file ./Frameworks/libswiftUIKit.dylib ... 
+2020-12-05 12:59:26 +0000  1608800 bytes for ./Frameworks/libswiftUIKit.dylib
+2020-12-05 12:59:26 +0000  copying file ./Frameworks/libswiftMetal.dylib ... 
+2020-12-05 12:59:26 +0000  724416 bytes for ./Frameworks/libswiftMetal.dylib
+2020-12-05 12:59:26 +0000  copying file ./Frameworks/libswiftDispatch.dylib ... 
+2020-12-05 12:59:26 +0000  4056896 bytes for ./Frameworks/libswiftDispatch.dylib
+2020-12-05 12:59:26 +0000  copying file ./Frameworks/libswiftos.dylib ... 
+2020-12-05 12:59:26 +0000  857184 bytes for ./Frameworks/libswiftos.dylib
+2020-12-05 12:59:26 +0000  copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+2020-12-05 12:59:26 +0000  450384 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+2020-12-05 12:59:26 +0000  copying file ./Frameworks/libswiftDarwin.dylib ... 
+2020-12-05 12:59:26 +0000  1091440 bytes for ./Frameworks/libswiftDarwin.dylib
+2020-12-05 12:59:26 +0000  copying file ./Frameworks/libswiftQuartzCore.dylib ... 
+2020-12-05 12:59:26 +0000  486336 bytes for ./Frameworks/libswiftQuartzCore.dylib
+2020-12-05 12:59:26 +0000  copying file ./Frameworks/libswiftFoundation.dylib ... 
+2020-12-05 12:59:26 +0000  43094320 bytes for ./Frameworks/libswiftFoundation.dylib
+2020-12-05 12:59:26 +0000  copying file ./embedded.mobileprovision ... 
+2020-12-05 12:59:26 +0000  9491 bytes for ./embedded.mobileprovision
+2020-12-05 12:59:26 +0000  copying file ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png ... 
+2020-12-05 12:59:26 +0000  761 bytes for ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png
+2020-12-05 12:59:26 +0000  copying file ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png ... 
+2020-12-05 12:59:26 +0000  405 bytes for ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png
+2020-12-05 12:59:26 +0000  copying file ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png ... 
+2020-12-05 12:59:26 +0000  290 bytes for ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png
+2020-12-05 12:59:26 +0000  copying file ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png ... 
+2020-12-05 12:59:26 +0000  913 bytes for ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png
+2020-12-05 12:59:26 +0000  copying file ./Info.plist ... 
+2020-12-05 12:59:26 +0000  1350 bytes for ./Info.plist
+2020-12-05 12:59:26 +0000  copying file ./Expo.plist ... 
+2020-12-05 12:59:26 +0000  133 bytes for ./Expo.plist
+2020-12-05 12:59:26 +0000  copying file ./PkgInfo ... 
+2020-12-05 12:59:26 +0000  8 bytes for ./PkgInfo
+2020-12-05 12:59:26 +0000  /usr/bin/ditto exited with 0
+2020-12-05 12:59:26 +0000  Processing step: IDEDistributionEmbedProfileStep
+2020-12-05 12:59:26 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd9bec1d6d0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fd9bd53a550:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bd909ea0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9a766f700; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9ccc732f0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fd9bd53a550:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:26 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd9bdc39580; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fd9be39d110:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9b6857430; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bd5412f0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9b668a080>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fd9be39d110:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:26 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd9bd2e3290; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fd9bdf3a950:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bdc18bd0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9be0b68d0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9bc6c7ae0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fd9bdf3a950:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:26 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd9c006bab0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fd9c001c550:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9b966a3a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bda6d0e0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9c724d360>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fd9c001c550:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:26 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd9bd794f80; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fd9bca7a050:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bde46060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bd5412f0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9bd6d1f80>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fd9bca7a050:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:26 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd9bd7b0db0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fd9bae94a40:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bec1d0e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bda6d0e0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9c724d360>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fd9bae94a40:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:26 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd9c0054940; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fd9d3eef980:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bdc5e7b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bec3e1a0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9ac48d280>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fd9d3eef980:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:26 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd9bdc62840; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fd9bae22e30:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bec21b70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9be0b68d0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9d4af0740>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fd9bae22e30:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:26 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd9bd7a67f0; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fd9c001abf0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bd7800d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9be0b68d0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9aded2bc0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fd9c001abf0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:26 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd9bec1adf0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fd9d1c66220:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bdc40de0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9be0b68d0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9d4af0740>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fd9d1c66220:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:26 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd9bec1dfc0; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fd9be5e7310:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bd7b1d40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9be0b68d0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9aded2bc0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fd9be5e7310:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:26 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd9bdc3e390; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fd9c000c4e0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9c006d6d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bdf4d750; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9d06074a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fd9c000c4e0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:26 +0000  Processing step: IDEDistributionInfoPlistStep
+2020-12-05 12:59:26 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-12-05 12:59:26 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-12-05 12:59:26 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-12-05 12:59:26 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-12-05 12:59:26 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-12-05 12:59:26 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-12-05 12:59:26 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-12-05 12:59:26 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-12-05 12:59:26 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-12-05 12:59:26 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-12-05 12:59:26 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-12-05 12:59:26 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-12-05 12:59:26 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-12-05 12:59:26 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2020-12-05 12:59:26 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2020-12-05 12:59:26 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2020-12-05 12:59:26 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2020-12-05 12:59:26 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCore.dylib' '-r' '-o' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCore.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib' '-r' '-o' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib' '-r' '-o' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib' '-r' '-o' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib' '-r' '-o' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib' '-r' '-o' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib' '-r' '-o' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftMetal.dylib' '-r' '-o' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftMetal.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib' '-r' '-o' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib' '-r' '-o' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib' '-r' '-o' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftos.dylib' '-r' '-o' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftos.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/engineeringiodemo' '-r' '-o' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/engineeringiodemo'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2020-12-05 12:59:27 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-12-05 12:59:27 +0000  Processing step: IDEDistributionSymbolsStep
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-12-05 12:59:27 +0000  Processing step: IDEDistributionAppThinningStep
+2020-12-05 12:59:27 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2020-12-05 12:59:27 +0000  Processing step: IDEDistributionArchThinningStep
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCore.dylib' '-verify_arch' 'arm64e'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCore.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:27 +0000  Successfully thinned item "libswiftCore.dylib", arch "arm64e"
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib' '-verify_arch' 'arm64e'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:27 +0000  Successfully thinned item "libswiftCoreFoundation.dylib", arch "arm64e"
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib' '-verify_arch' 'arm64e'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib' '-remove' 'arm64e' '-output' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:27 +0000  Successfully thinned item "libswiftCoreGraphics.dylib", arch "arm64e"
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib' '-verify_arch' 'arm64e'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib' '-remove' 'arm64e' '-output' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:27 +0000  Successfully thinned item "libswiftCoreImage.dylib", arch "arm64e"
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib' '-verify_arch' 'arm64e'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib' '-remove' 'arm64e' '-output' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:27 +0000  Successfully thinned item "libswiftDarwin.dylib", arch "arm64e"
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib' '-verify_arch' 'arm64e'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib' '-remove' 'arm64e' '-output' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:27 +0000  Successfully thinned item "libswiftDispatch.dylib", arch "arm64e"
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib' '-verify_arch' 'arm64e'
+2020-12-05 12:59:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib'
+2020-12-05 12:59:28 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:28 +0000  Successfully thinned item "libswiftFoundation.dylib", arch "arm64e"
+2020-12-05 12:59:28 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftMetal.dylib' '-verify_arch' 'arm64e'
+2020-12-05 12:59:28 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:28 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftMetal.dylib' '-remove' 'arm64e' '-output' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftMetal.dylib'
+2020-12-05 12:59:28 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:28 +0000  Successfully thinned item "libswiftMetal.dylib", arch "arm64e"
+2020-12-05 12:59:28 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib' '-verify_arch' 'arm64e'
+2020-12-05 12:59:28 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:28 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib' '-remove' 'arm64e' '-output' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib'
+2020-12-05 12:59:28 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:28 +0000  Successfully thinned item "libswiftObjectiveC.dylib", arch "arm64e"
+2020-12-05 12:59:28 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib' '-verify_arch' 'arm64e'
+2020-12-05 12:59:28 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:28 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib'
+2020-12-05 12:59:28 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:28 +0000  Successfully thinned item "libswiftQuartzCore.dylib", arch "arm64e"
+2020-12-05 12:59:28 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib' '-verify_arch' 'arm64e'
+2020-12-05 12:59:28 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:28 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib' '-remove' 'arm64e' '-output' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib'
+2020-12-05 12:59:28 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:28 +0000  Successfully thinned item "libswiftUIKit.dylib", arch "arm64e"
+2020-12-05 12:59:28 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftos.dylib' '-verify_arch' 'arm64e'
+2020-12-05 12:59:28 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:28 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftos.dylib' '-remove' 'arm64e' '-output' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftos.dylib'
+2020-12-05 12:59:28 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-05 12:59:28 +0000  Successfully thinned item "libswiftos.dylib", arch "arm64e"
+2020-12-05 12:59:28 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/engineeringiodemo' '-verify_arch' 'arm64e'
+2020-12-05 12:59:28 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-05 12:59:28 +0000  Skipping architecture thinning for item "engineeringiodemo" because arch "arm64e" wasn't found
+2020-12-05 12:59:28 +0000  Processing step: IDEDistributionODRStep
+2020-12-05 12:59:28 +0000  Processing step: IDEDistributionStripXattrsStep
+2020-12-05 12:59:28 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd9bec1d6d0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fd9bd53a550:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bd909ea0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bec53210; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9ac4bcc10>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fd9bd53a550:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:28 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd9bdc39580; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fd9be39d110:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9b6857430; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bec53170; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9d1bd9250>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fd9be39d110:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:28 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd9bd2e3290; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fd9bdf3a950:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bdc18bd0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9be0c2560; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9d4af0740>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fd9bdf3a950:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:28 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd9c006bab0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fd9c001c550:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9b966a3a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bdf4d750; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9cc820ed0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fd9c001c550:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:28 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd9bd794f80; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fd9bca7a050:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bde46060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bec63cd0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9ac4bcc10>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fd9bca7a050:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:28 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd9bd7b0db0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fd9bae94a40:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bec1d0e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bec624c0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9ac4d1500>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fd9bae94a40:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:28 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd9c0054940; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fd9d3eef980:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bdc5e7b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9be0c2560; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9d4af0740>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fd9d3eef980:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:28 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd9bdc62840; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fd9bae22e30:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bec21b70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bec37570; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9ac4bcc10>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fd9bae22e30:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:28 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd9bd7a67f0; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fd9c001abf0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bd7800d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bd551660; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9d3ee7b10>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fd9c001abf0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:28 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd9bec1adf0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fd9d1c66220:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bdc40de0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bd551660; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9d3eec750>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fd9d1c66220:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:28 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd9bec1dfc0; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fd9be5e7310:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bd7b1d40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9be0c2560; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9d4af0740>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fd9be5e7310:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:28 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd9bdc3e390; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fd9c000c4e0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9c006d6d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bdcea490; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9d3ee7b10>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fd9c000c4e0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>
+2020-12-05 12:59:28 +0000  Running /usr/bin/xattr '-crs' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app'
+2020-12-05 12:59:29 +0000  /usr/bin/xattr exited with 0
+2020-12-05 12:59:29 +0000  Processing step: IDEDistributionCodesignStep
+2020-12-05 12:59:29 +0000  Entitlements for <IDEDistributionItem: 0x7fd9bec1d6d0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fd9bd53a550:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bd909ea0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9cfc97b20; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9bd7c6540>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fd9bd53a550:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-05 12:59:29 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd9bec1d6d0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fd9bd53a550:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bd909ea0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bec59690; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9d1bd9250>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fd9bd53a550:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~iTiikv
+2020-12-05 12:59:29 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970' '--entitlements' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~iTiikv' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCore.dylib'
+2020-12-05 12:59:30 +0000  /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCore]
+2020-12-05 12:59:30 +0000  /usr/bin/codesign exited with 0
+2020-12-05 12:59:30 +0000  Entitlements for <IDEDistributionItem: 0x7fd9bdc39580; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fd9be39d110:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9b6857430; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9cfc97b20; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9ba269580>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fd9be39d110:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-05 12:59:30 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd9bdc39580; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fd9be39d110:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9b6857430; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bde54d40; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9bde54ef0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fd9be39d110:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~H2pfjG
+2020-12-05 12:59:30 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970' '--entitlements' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~H2pfjG' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib'
+2020-12-05 12:59:30 +0000  /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2020-12-05 12:59:30 +0000  /usr/bin/codesign exited with 0
+2020-12-05 12:59:30 +0000  Entitlements for <IDEDistributionItem: 0x7fd9bd2e3290; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fd9bdf3a950:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bdc18bd0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9be0e19a0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9bd906ec0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fd9bdf3a950:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-05 12:59:30 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd9bd2e3290; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fd9bdf3a950:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bdc18bd0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9c0045a90; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9ac4d1500>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fd9bdf3a950:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> to: /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~dOg3fl
+2020-12-05 12:59:30 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970' '--entitlements' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~dOg3fl' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib'
+2020-12-05 12:59:31 +0000  /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2020-12-05 12:59:31 +0000  /usr/bin/codesign exited with 0
+2020-12-05 12:59:31 +0000  Entitlements for <IDEDistributionItem: 0x7fd9c006bab0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fd9c001c550:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9b966a3a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9be0e19a0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9b012d4d0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fd9c001c550:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-05 12:59:31 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd9c006bab0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fd9c001c550:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9b966a3a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9be0d75d0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9d0146610>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fd9c001c550:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'> to: /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~FEgOun
+2020-12-05 12:59:31 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970' '--entitlements' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~FEgOun' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib'
+2020-12-05 12:59:31 +0000  /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreImage]
+2020-12-05 12:59:31 +0000  
+2020-12-05 12:59:31 +0000  /usr/bin/codesign exited with 0
+2020-12-05 12:59:31 +0000  Entitlements for <IDEDistributionItem: 0x7fd9bd794f80; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fd9bca7a050:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bde46060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bca13520; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9bd7e6320>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fd9bca7a050:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-05 12:59:31 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd9bd794f80; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fd9bca7a050:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bde46060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bec624c0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9b90c4f00>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fd9bca7a050:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> to: /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~tKV3IK
+2020-12-05 12:59:31 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970' '--entitlements' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~tKV3IK' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib'
+2020-12-05 12:59:31 +0000  /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDarwin]
+2020-12-05 12:59:31 +0000  /usr/bin/codesign exited with 0
+2020-12-05 12:59:31 +0000  Entitlements for <IDEDistributionItem: 0x7fd9bd7b0db0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fd9bae94a40:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bec1d0e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bca13520; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9bd771880>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fd9bae94a40:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-05 12:59:31 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd9bd7b0db0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fd9bae94a40:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bec1d0e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9ac4be210; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9cfbe3640>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fd9bae94a40:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> to: /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~Hyd7EZ
+2020-12-05 12:59:31 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970' '--entitlements' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~Hyd7EZ' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib'
+2020-12-05 12:59:32 +0000  /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDispatch]
+2020-12-05 12:59:32 +0000  /usr/bin/codesign exited with 0
+2020-12-05 12:59:32 +0000  Entitlements for <IDEDistributionItem: 0x7fd9c0054940; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fd9d3eef980:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bdc5e7b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bca13520; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9ba211970>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fd9d3eef980:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-05 12:59:32 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd9c0054940; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fd9d3eef980:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bdc5e7b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9be0b1580; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9af613d50>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fd9d3eef980:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~p5rF34
+2020-12-05 12:59:32 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970' '--entitlements' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~p5rF34' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib'
+2020-12-05 12:59:32 +0000  /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftFoundation]
+2020-12-05 12:59:32 +0000  /usr/bin/codesign exited with 0
+2020-12-05 12:59:32 +0000  Entitlements for <IDEDistributionItem: 0x7fd9bdc62840; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fd9bae22e30:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bec21b70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bdcea490; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9ba9a1fe0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fd9bae22e30:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-05 12:59:32 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd9bdc62840; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fd9bae22e30:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bec21b70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9be0e2be0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9ce1825c0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fd9bae22e30:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'> to: /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~tIbIov
+2020-12-05 12:59:32 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970' '--entitlements' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~tIbIov' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftMetal.dylib'
+2020-12-05 12:59:32 +0000  /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftMetal.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftMetal]
+2020-12-05 12:59:32 +0000  /usr/bin/codesign exited with 0
+2020-12-05 12:59:32 +0000  Entitlements for <IDEDistributionItem: 0x7fd9bd7a67f0; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fd9c001abf0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bd7800d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9be0e2be0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9cfdaf860>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fd9c001abf0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-05 12:59:32 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd9bd7a67f0; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fd9c001abf0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bd7800d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9c0045a90; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9ac4d1500>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fd9c001abf0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> to: /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~PERpZ7
+2020-12-05 12:59:32 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970' '--entitlements' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~PERpZ7' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib'
+2020-12-05 12:59:33 +0000  /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2020-12-05 12:59:33 +0000  /usr/bin/codesign exited with 0
+2020-12-05 12:59:33 +0000  Entitlements for <IDEDistributionItem: 0x7fd9bec1adf0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fd9d1c66220:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bdc40de0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bd52d040; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9af173bb0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fd9d1c66220:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-05 12:59:33 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd9bec1adf0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fd9d1c66220:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bdc40de0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9be0c2560; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9af67a790>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fd9d1c66220:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~kyuJWj
+2020-12-05 12:59:33 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970' '--entitlements' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~kyuJWj' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib'
+2020-12-05 12:59:33 +0000  /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftQuartzCore]
+2020-12-05 12:59:33 +0000  /usr/bin/codesign exited with 0
+2020-12-05 12:59:33 +0000  Entitlements for <IDEDistributionItem: 0x7fd9bec1dfc0; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fd9be5e7310:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bd7b1d40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bd7f4f70; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9ba211970>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fd9be5e7310:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-05 12:59:33 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd9bec1dfc0; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fd9be5e7310:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bd7b1d40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9bec6efe0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9ac4d1500>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fd9be5e7310:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'> to: /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~ZNCRwH
+2020-12-05 12:59:33 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970' '--entitlements' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~ZNCRwH' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib'
+2020-12-05 12:59:34 +0000  /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftUIKit]
+2020-12-05 12:59:34 +0000  /usr/bin/codesign exited with 0
+2020-12-05 12:59:34 +0000  Entitlements for <IDEDistributionItem: 0x7fd9bdc3e390; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fd9c000c4e0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9c006d6d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9a766f700; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9d3fd1b20>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fd9c000c4e0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-05 12:59:34 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd9bdc3e390; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fd9c000c4e0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9c006d6d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9d19b2270; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9bd759d30>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='(null)', teamID='YR4YU5F8NT', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fd9c000c4e0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'> to: /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~uqur2D
+2020-12-05 12:59:34 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970' '--entitlements' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~uqur2D' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftos.dylib'
+2020-12-05 12:59:34 +0000  /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftos.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftos]
+2020-12-05 12:59:34 +0000  /usr/bin/codesign exited with 0
+2020-12-05 12:59:34 +0000  Entitlements for <IDEDistributionItem: 0x7fd9be0a8370; bundleID='org.name.engineeringiodemo', path='<DVTFilePath:0x7fd9be3894e0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bd7b8dc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9d4b621c0; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9bd696240>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='{
+    "application-identifier" = "YR4YU5F8NT.org.name.engineeringiodemo";
+    "com.apple.developer.team-identifier" = YR4YU5F8NT;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "YR4YU5F8NT.org.name.engineeringiodemo"
+    );
+}', teamID='YR4YU5F8NT', identifier='org.name.engineeringiodemo', executablePath='<DVTFilePath:0x7fd9d3fdefd0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/engineeringiodemo'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "YR4YU5F8NT.org.name.engineeringiodemo";
+    "com.apple.developer.team-identifier" = YR4YU5F8NT;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "YR4YU5F8NT.org.name.engineeringiodemo"
+    );
+}
+2020-12-05 12:59:34 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd9be0a8370; bundleID='org.name.engineeringiodemo', path='<DVTFilePath:0x7fd9be3894e0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd9bd7b8dc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd9a766f700; name='Apple Development: Pratik Khunt (34F4QND6MT)', hash='CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd9cff58320>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-05 12:25:56 +0000''>', entitlements='{
+    "application-identifier" = "YR4YU5F8NT.org.name.engineeringiodemo";
+    "com.apple.developer.team-identifier" = YR4YU5F8NT;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "YR4YU5F8NT.org.name.engineeringiodemo"
+    );
+}', teamID='YR4YU5F8NT', identifier='org.name.engineeringiodemo', executablePath='<DVTFilePath:0x7fd9d3fdefd0:'/Users/gk/Library/Developer/Xcode/Archives/2020-12-05/engineeringiodemo 05-12-20, 6.29 PM.xcarchive/Products/Applications/engineeringiodemo.app/engineeringiodemo'>', hardenedRuntime='0'>'> to: /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~rk27i3
+2020-12-05 12:59:34 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CDD00ED8D81A537F57E3F0A6EF3CB3A14628D970' '--entitlements' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/entitlements~~~rk27i3' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app'
+2020-12-05 12:59:37 +0000  /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app: signed app bundle with Mach-O universal (armv7 arm64) [org.name.engineeringiodemo]
+2020-12-05 12:59:37 +0000  /usr/bin/codesign exited with 0
+2020-12-05 12:59:37 +0000  Processing step: IDEDistributionZipODRItemStep
+2020-12-05 12:59:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-05 12:59:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-05 12:59:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-05 12:59:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-05 12:59:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-05 12:59:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-05 12:59:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-05 12:59:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-05 12:59:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-05 12:59:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-05 12:59:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-05 12:59:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-05 12:59:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-05 12:59:37 +0000  Processing step: IDEDistributionCreateIPAStep
+2020-12-05 12:59:37 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root' '/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Packages/engineeringiodemo.ipa'
+2020-12-05 12:59:37 +0000  >>> Copying /var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root 
+2020-12-05 12:59:37 +0000  copying file ./Payload/engineeringiodemo.app/_CodeSignature/CodeResources ... 
+2020-12-05 12:59:37 +0000  11072 bytes for ./Payload/engineeringiodemo.app/_CodeSignature/CodeResources
+2020-12-05 12:59:37 +0000  copying file ./Payload/engineeringiodemo.app/SplashScreen.storyboardc/EXPO-VIEWCONTROLLER-1-view-EXPO-ContainerView.nib ... 
+2020-12-05 12:59:37 +0000  2810 bytes for ./Payload/engineeringiodemo.app/SplashScreen.storyboardc/EXPO-VIEWCONTROLLER-1-view-EXPO-ContainerView.nib
+2020-12-05 12:59:37 +0000  copying file ./Payload/engineeringiodemo.app/SplashScreen.storyboardc/SplashScreenViewController.nib ... 
+2020-12-05 12:59:37 +0000  976 bytes for ./Payload/engineeringiodemo.app/SplashScreen.storyboardc/SplashScreenViewController.nib
+copying file ./Payload/engineeringiodemo.app/SplashScreen.storyboardc/Info.plist ... 
+2020-12-05 12:59:37 +0000  225 bytes for ./Payload/engineeringiodemo.app/SplashScreen.storyboardc/Info.plist
+copying file ./Payload/engineeringiodemo.app/engineeringiodemo ... 
+2020-12-05 12:59:38 +0000  6324208 bytes for ./Payload/engineeringiodemo.app/engineeringiodemo
+2020-12-05 12:59:38 +0000  copying file ./Payload/engineeringiodemo.app/AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2020-12-05 12:59:38 +0000  530 bytes for ./Payload/engineeringiodemo.app/AccessibilityResources.bundle/en.lproj/Localizable.strings
+2020-12-05 12:59:38 +0000  copying file ./Payload/engineeringiodemo.app/AccessibilityResources.bundle/Info.plist ... 
+2020-12-05 12:59:38 +0000  743 bytes for ./Payload/engineeringiodemo.app/AccessibilityResources.bundle/Info.plist
+2020-12-05 12:59:38 +0000  copying file ./Payload/engineeringiodemo.app/Base.lproj/LaunchScreen.nib ... 
+2020-12-05 12:59:38 +0000  3188 bytes for ./Payload/engineeringiodemo.app/Base.lproj/LaunchScreen.nib
+2020-12-05 12:59:38 +0000  copying file ./Payload/engineeringiodemo.app/Assets.car ... 
+2020-12-05 12:59:38 +0000  68895 bytes for ./Payload/engineeringiodemo.app/Assets.car
+2020-12-05 12:59:38 +0000  copying file ./Payload/engineeringiodemo.app/main.jsbundle ... 
+2020-12-05 12:59:39 +0000  1218526 bytes for ./Payload/engineeringiodemo.app/main.jsbundle
+2020-12-05 12:59:39 +0000  copying file ./Payload/engineeringiodemo.app/app.manifest ... 
+1223 bytes for ./Payload/engineeringiodemo.app/app.manifest
+2020-12-05 12:59:39 +0000  copying file ./Payload/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib ... 
+2020-12-05 12:59:39 +0000  253632 bytes for ./Payload/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib
+2020-12-05 12:59:39 +0000  copying file ./Payload/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib ... 
+2020-12-05 12:59:39 +0000  302640 bytes for ./Payload/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib
+2020-12-05 12:59:39 +0000  copying file ./Payload/engineeringiodemo.app/Frameworks/libswiftCore.dylib ... 
+2020-12-05 12:59:43 +0000  16915040 bytes for ./Payload/engineeringiodemo.app/Frameworks/libswiftCore.dylib
+2020-12-05 12:59:43 +0000  copying file ./Payload/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2020-12-05 12:59:43 +0000  646848 bytes for ./Payload/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib
+2020-12-05 12:59:43 +0000  copying file ./Payload/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib ... 
+2020-12-05 12:59:43 +0000  477152 bytes for ./Payload/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib
+2020-12-05 12:59:43 +0000  copying file ./Payload/engineeringiodemo.app/Frameworks/libswiftMetal.dylib ... 
+2020-12-05 12:59:43 +0000  298096 bytes for ./Payload/engineeringiodemo.app/Frameworks/libswiftMetal.dylib
+2020-12-05 12:59:43 +0000  copying file ./Payload/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib ... 
+2020-12-05 12:59:44 +0000  1018912 bytes for ./Payload/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib
+2020-12-05 12:59:44 +0000  copying file ./Payload/engineeringiodemo.app/Frameworks/libswiftos.dylib ... 
+2020-12-05 12:59:44 +0000  299424 bytes for ./Payload/engineeringiodemo.app/Frameworks/libswiftos.dylib
+2020-12-05 12:59:44 +0000  copying file ./Payload/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2020-12-05 12:59:44 +0000  253776 bytes for ./Payload/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib
+2020-12-05 12:59:44 +0000  copying file ./Payload/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib ... 
+2020-12-05 12:59:44 +0000  369728 bytes for ./Payload/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib
+2020-12-05 12:59:44 +0000  copying file ./Payload/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib ... 
+2020-12-05 12:59:44 +0000  256864 bytes for ./Payload/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib
+2020-12-05 12:59:44 +0000  copying file ./Payload/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib ... 
+2020-12-05 12:59:46 +0000  8479536 bytes for ./Payload/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib
+2020-12-05 12:59:46 +0000  copying file ./Payload/engineeringiodemo.app/embedded.mobileprovision ... 
+2020-12-05 12:59:46 +0000  9491 bytes for ./Payload/engineeringiodemo.app/embedded.mobileprovision
+2020-12-05 12:59:46 +0000  copying file ./Payload/engineeringiodemo.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png ... 
+2020-12-05 12:59:46 +0000  761 bytes for ./Payload/engineeringiodemo.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png
+2020-12-05 12:59:46 +0000  copying file ./Payload/engineeringiodemo.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png ... 
+2020-12-05 12:59:46 +0000  405 bytes for ./Payload/engineeringiodemo.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png
+2020-12-05 12:59:46 +0000  copying file ./Payload/engineeringiodemo.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png ... 
+2020-12-05 12:59:46 +0000  290 bytes for ./Payload/engineeringiodemo.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png
+copying file ./Payload/engineeringiodemo.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png ... 
+2020-12-05 12:59:46 +0000  913 bytes for ./Payload/engineeringiodemo.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png
+2020-12-05 12:59:46 +0000  copying file ./Payload/engineeringiodemo.app/Info.plist ... 
+2020-12-05 12:59:46 +0000  1350 bytes for ./Payload/engineeringiodemo.app/Info.plist
+2020-12-05 12:59:46 +0000  copying file ./Payload/engineeringiodemo.app/Expo.plist ... 
+2020-12-05 12:59:46 +0000  133 bytes for ./Payload/engineeringiodemo.app/Expo.plist
+copying file ./Payload/engineeringiodemo.app/PkgInfo ... 
+2020-12-05 12:59:46 +0000  8 bytes for ./Payload/engineeringiodemo.app/PkgInfo
+2020-12-05 12:59:46 +0000  copying file ./AppThinning.plist ... 
+2020-12-05 12:59:46 +0000  228 bytes for ./AppThinning.plist
+2020-12-05 12:59:46 +0000  /usr/bin/ditto exited with 0
+2020-12-05 12:59:46 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2020-12-05 12:59:46 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2020-12-05 12:59:46 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2020-12-05 12:59:46 +0000  IDEDistributionItem init <DVTFilePath:0x7fd9bdf4ca30:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib'>
+2020-12-05 12:59:46 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd9bdf4ca30:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftUIKit.dylib'>
+2020-12-05 12:59:46 +0000  IDEDistributionItem init <DVTFilePath:0x7fd9cc87b460:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib'>
+2020-12-05 12:59:46 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd9cc87b460:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftObjectiveC.dylib'>
+2020-12-05 12:59:46 +0000  IDEDistributionItem init <DVTFilePath:0x7fd9bc5b0e20:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib'>
+2020-12-05 12:59:46 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd9bc5b0e20:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDarwin.dylib'>
+2020-12-05 12:59:46 +0000  IDEDistributionItem init <DVTFilePath:0x7fd9be090cc0:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCore.dylib'>
+2020-12-05 12:59:46 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd9be090cc0:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCore.dylib'>
+2020-12-05 12:59:46 +0000  IDEDistributionItem init <DVTFilePath:0x7fd9bec39c10:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib'>
+2020-12-05 12:59:46 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd9bec39c10:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreImage.dylib'>
+2020-12-05 12:59:46 +0000  IDEDistributionItem init <DVTFilePath:0x7fd9be0945f0:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib'>
+2020-12-05 12:59:46 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd9be0945f0:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreFoundation.dylib'>
+2020-12-05 12:59:46 +0000  IDEDistributionItem init <DVTFilePath:0x7fd9ccc73270:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftos.dylib'>
+2020-12-05 12:59:46 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd9ccc73270:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftos.dylib'>
+2020-12-05 12:59:46 +0000  IDEDistributionItem init <DVTFilePath:0x7fd9bdf4b200:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib'>
+2020-12-05 12:59:46 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd9bdf4b200:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftCoreGraphics.dylib'>
+2020-12-05 12:59:46 +0000  IDEDistributionItem init <DVTFilePath:0x7fd9bdf4d300:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib'>
+2020-12-05 12:59:46 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd9bdf4d300:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftDispatch.dylib'>
+2020-12-05 12:59:46 +0000  IDEDistributionItem init <DVTFilePath:0x7fd9bdf50050:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftMetal.dylib'>
+2020-12-05 12:59:46 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd9bdf50050:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftMetal.dylib'>
+2020-12-05 12:59:46 +0000  IDEDistributionItem init <DVTFilePath:0x7fd9bb958b10:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib'>
+2020-12-05 12:59:46 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd9bb958b10:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftQuartzCore.dylib'>
+2020-12-05 12:59:46 +0000  IDEDistributionItem init <DVTFilePath:0x7fd9be0b98d0:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib'>
+2020-12-05 12:59:46 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd9be0b98d0:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app/Frameworks/libswiftFoundation.dylib'>
+2020-12-05 12:59:46 +0000  IDEDistributionItem init <DVTFilePath:0x7fd9be0d6ca0:'/var/folders/xv/94n4mwk56gq3hs3998413j8m0000gn/T/XcodeDistPipeline.~~~qq9E56/Root/Payload/engineeringiodemo.app'>
+2020-12-05 12:59:46 +0000  Processing step: IDEDistributionCreateManifestStep
