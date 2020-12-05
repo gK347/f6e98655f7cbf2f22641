@@ -23,14 +23,12 @@ export default function PostList({ navigation }) {
   }, []);
 
   const callThePostApi = (pageNum) => {
-    console.log("paheNum:", pageNum);
     if (!isAPICall) {
       isAPICall = true;
       const url = `https://hn.algolia.com/api/v1/search_by_date?tags=story&page=${pageNumber}`;
       fetch(url)
         .then((response) => response.json())
         .then((res) => {
-          console.log("RES:", pageNum);
           isAPICall = false;
           if (res?.hits?.length > 0) {
             let updatedPageNumber = pageNumber + 1;
@@ -45,12 +43,7 @@ export default function PostList({ navigation }) {
           console.log(error);
         });
     }
-    // setInterval(() => {
-    //   console.log("intervalcall:", pageNumber);
-    //   callThePostApi();
-    // }, 10000);
   };
-  // const interval = setInterval(() => callThePostApi(), 3000);
 
   const renderPost = ({ item, index }) => {
     return (
