@@ -18,7 +18,6 @@ xcuserdata
 *.moved-aside
 DerivedData
 *.hmap
-*.ipa
 *.xcuserstate
 project.xcworkspace
 
@@ -29,7 +28,6 @@ build/
 .gradle
 local.properties
 *.iml
-*.apk
 *.jks
 
 # Crashlytics configuations
